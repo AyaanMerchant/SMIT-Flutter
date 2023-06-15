@@ -28,12 +28,12 @@ Git And GitHub Complete Guide:
 
 8. Push changes: Share your local repository with a remote repository, such as one hosted on GitHub, using the `git push` command.
 
-    git push origin main
-    This pushes your local "main" branch to the remote repository named "origin."
+    git push origin master
+    This pushes your local "master" branch to the remote repository named "origin."
 
 9. Pull changes: Get the latest changes from a remote repository into your local repository using the `git pull` command.
 
-    git pull origin main
+    git pull origin master
     This fetches the latest changes from the "main" branch of the remote repository named "origin" and merges them into your local branch.
 
 10. Clone a repository: Create a copy of a remote repository on your local machine using the `git clone` command.
